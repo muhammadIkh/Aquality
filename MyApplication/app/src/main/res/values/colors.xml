@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="my_prime">#5AA6FF</color>
+    <color name="btn_yes">#6DFF63</color>
+    <color name="btn_no">#FF2D2D</color>
+    <color name="sec">#2644B1</color>
+</resources>
